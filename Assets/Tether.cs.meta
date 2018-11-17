@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 71c5daae74ab85440949ca33f938ed09
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - prefabTether: {fileID: 1077589039690796, guid: 106a215252bc5ae4f951ad45105a1045,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
